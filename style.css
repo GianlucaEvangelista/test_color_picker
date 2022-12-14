@@ -1,0 +1,58 @@
+#red{
+    background-color: red;
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    border: 2px solid black;
+}
+
+#green{
+    background-color: green;
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    border: 2px solid black;
+}
+
+#blue{
+    background-color: blue;
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    border: 2px solid black;
+}
+
+#violet{
+    background-color: violet;
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    border: 2px solid black;
+}
+
+#yellow{
+    background-color: yellow;
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    border: 2px solid black;
+}
+
+#orange{
+    background-color: orange;
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    border: 2px solid black;
+}
+
+#text{
+    text-align: center;
+}
+h1{
+    margin-top: 10%;
+}
+button{
+    border-radius: 10px;
+    margin: 10px auto auto 20px;
+}
